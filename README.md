@@ -25,10 +25,15 @@ Implementar sistemas completos de identificación, evaluación y control de ries
 
 ## 🏗️ Estructura del Repositorio
 modulo-1.1-gestion-riesgos/
+
 ├── normas-regulaciones/ # Documentación normativa
+
 ├── documentacion/ # Formatos y plantillas
+
 ├── herramientas/ # Instrumentos de evaluación
+
 ├── casos-estudio/ # Análisis de situaciones reales
+
 └── evaluacion/ # Material de evaluación
 
 text

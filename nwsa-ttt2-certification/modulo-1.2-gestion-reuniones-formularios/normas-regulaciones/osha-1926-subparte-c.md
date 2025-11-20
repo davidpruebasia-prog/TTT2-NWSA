@@ -40,7 +40,7 @@ markdown
 - **Evidencia de capacitación:** Registros de entrenamiento
 
 ### Frecuencia y Contenido Mínimo
-```plaintext
+
 REQUISITOS OSHA PARA REUNIONES DE SEGURIDAD:
 • Frecuencia: Diaria antes del inicio de labores
 • Duración: Suficiente para cubrir riesgos específicos

@@ -31,12 +31,18 @@ Establecer sistemas estandarizados para la gestión de reuniones diarias de segu
 - Actualización y mejora continua
 
 ## 🏗️ Estructura del Repositorio
-modulo-1.2-gestion-reuniones-formularios/
+
+modulo-1.2-gestion-reuniones-formularios/ 
 ├── normas-regulaciones/ # Base normativa OSHA/ANSI
+
 ├── documentacion/ # Formatos y plantillas
+
 ├── herramientas/ # Instrumentos de gestión
+
 ├── procedimientos/ # Procedimientos operativos
+
 ├── casos-estudio/ # Aplicaciones prácticas
+
 └── evaluacion/ # Material de evaluación
 
 text

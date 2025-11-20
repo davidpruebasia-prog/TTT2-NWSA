@@ -24,7 +24,7 @@ markdown
 ### Distancias Mínimas de Instalación
 
 #### Para Carreteras (Velocidad > 80 km/h)
-```plaintext
+
 SEÑALIZACIÓN EN CARRETERAS:
 - Señal avanzada: 250 metros antes de la zona
 - Transición: 100 metros de longitud
@@ -39,7 +39,8 @@ SEÑALIZACIÓN URBANA:
 - Zona de amortiguación: 25 metros
 - Zona de trabajo: Delimitada claramente
 - Terminación: 15 metros después
-📝 Plan de Control de Tráfico Requerido
+
+####📝 Plan de Control de Tráfico Requerido
 Elementos del Plan
 Diagrama de disposición de dispositivos
 

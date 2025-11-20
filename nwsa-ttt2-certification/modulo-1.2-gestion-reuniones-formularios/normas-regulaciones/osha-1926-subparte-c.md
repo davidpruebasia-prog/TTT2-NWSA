@@ -192,6 +192,7 @@ Comunicados a todo el personal
 
 Actualizados según condiciones cambien
 
+```markdown
 ✅ Matriz de Cumplimiento ANSI
 Requisitos de Documentación
 Sección ANSI	Requisito	Evidencia	Frecuencia

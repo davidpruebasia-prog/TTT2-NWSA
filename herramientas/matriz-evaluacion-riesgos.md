@@ -25,13 +25,13 @@ markdown
 
 ### MATRIZ PROBABILIDAD vs SEVERIDAD
 text
-       | Insignificante | Menor     | Moderado  | Crítico   | Catastrófico
+| Insignificante | Menor     | Moderado  | Crítico   | Catastrófico
 -----------|----------------|-----------|-----------|-----------|-------------
 Casi Seguro| MEDIO | ALTO | EXTREMO | EXTREMO | EXTREMO
-Probable | BAJO | MEDIO | ALTO | EXTREMO | EXTREMO
-Posible | BAJO | MEDIO | MEDIO | ALTO | EXTREMO
+Probable   | BAJO | MEDIO | ALTO | EXTREMO | EXTREMO
+Posible    | BAJO | MEDIO | MEDIO | ALTO | EXTREMO
 Improbable | MUY BAJO | BAJO | MEDIO | ALTO | ALTO
-Raro | MUY BAJO | BAJO | MEDIO | MEDIO | ALTO
+Raro       | MUY BAJO | BAJO | MEDIO | MEDIO | ALTO
 
 text
 
